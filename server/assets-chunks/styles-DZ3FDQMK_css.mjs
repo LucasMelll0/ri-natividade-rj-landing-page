@@ -1,0 +1,2 @@
+export default `body{font-family:Poppins,sans-serif}html{scroll-behavior:smooth}
+`;
