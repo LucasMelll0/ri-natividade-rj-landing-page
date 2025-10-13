@@ -26,7 +26,7 @@ export class FeaturesSection {
         'Definição de altura e largura em metros.',
         'Controle de rotação para alinhamento perfeito.',
       ],
-      imageSrc: '/imgs/plot-creation-feature.png',
+      imageSrc: 'imgs/plot-creation-feature.png',
       imageAlt:
         'Imagem da ferramenta de criação de lotes, mostrando ajustes de dimensões e colunas no mapa',
     },
@@ -39,7 +39,7 @@ export class FeaturesSection {
         'Personalização visual: Altere cores de fundo e borda para melhor organização.',
         'Identificação clara: Nomeie cada lote para fácil referência e gerenciamento.',
       ],
-      imageSrc: '/imgs/plot-edit-feature.png',
+      imageSrc: 'imgs/plot-edit-feature.png',
       imageAlt:
         'Imagem da ferramenta de edição de um lote individual, mostrando a personalização de nome e cores',
     },
@@ -51,7 +51,7 @@ export class FeaturesSection {
         'Imagens de alta resolução fornecidas pelo Google.',
         'Contexto real para registros mais precisos.',
       ],
-      imageSrc: '/imgs/satellite-view-feature.png',
+      imageSrc: 'imgs/satellite-view-feature.png',
       imageAlt:
         'Imagem da plataforma em modo satélite, exibindo lotes sobrepostos em uma foto aérea de alta resolução',
     },
@@ -64,7 +64,7 @@ export class FeaturesSection {
         'Salve para depois: Guarde seus rascunhos para futura referência ou edição',
         'Planejamento seguro: Finalize e salve o lote apenas quando tiver certeza.',
       ],
-      imageSrc: '/imgs/draft-mode-feature.png',
+      imageSrc: 'imgs/draft-mode-feature.png',
       imageAlt:
         'Imagem do modo rascunho, mostrando um loteamento sendo esboçado no mapa antes de ser salvo.',
     },
@@ -77,7 +77,7 @@ export class FeaturesSection {
         'Endereço Completo: Preencha todos os campos de endereço para uma localização exata.',
         'Detalhes do Lote: Especifique quadra, lote, loteamento e tamanho do imóvel.',
       ],
-      imageSrc: '/imgs/form-feature.png',
+      imageSrc: 'imgs/form-feature.png',
       imageAlt:
         'Imagem do formulário de registro de imóvel com campos para matrícula, endereço e detalhes do lote',
     },
