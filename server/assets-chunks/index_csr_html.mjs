@@ -15,6 +15,6 @@ export default `<!doctype html>
   <style>body{font-family:Poppins,sans-serif}html{scroll-behavior:smooth}</style><link rel="stylesheet" href="styles-DZ3FDQMK.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-DZ3FDQMK.css"></noscript></head>
   <body ngcm="">
     <app-root></app-root>
-  <script src="main-TVZYPM54.js" type="module"></script></body>
+  <script src="main-T4FALWTV.js" type="module"></script></body>
 </html>
 `;
